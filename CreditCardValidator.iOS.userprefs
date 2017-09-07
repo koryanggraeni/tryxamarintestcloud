@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{90F3C584-FD69-4926-9903-6B9771847782}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreditCardValidator.Specflow.IOS/Test.feature">
+    <Files>
+      <File FileName="CreditCardValidator.iOS.UITests/Tests.cs" Line="59" Column="4" />
+      <File FileName="CreditCardValidator.Specflow.IOS/Test.feature" Line="26" Column="51" />
+      <File FileName="CreditCardValidator.Specflow.IOS/TestSteps.cs" Line="45" Column="80" />
+      <File FileName="CreditCardValidator/SimpleCreditCardValidator.cs" Line="31" Column="5" />
+      <File FileName="CreditCardValidator.Specflow.IOS/App.config" Line="1" Column="1" />
+      <File FileName="CreditCardValidator.Specflow.IOS/packages.config" Line="1" Column="1" />
+      <File FileName="CreditCardValidator.iOS.UITests/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CreditCardValidator.iOS" expanded="True">
+            <Node name="CreditCardValidator.iOS.UITests" expanded="True" />
+            <Node name="CreditCardValidator.Specflow.IOS" expanded="True">
+              <Node name="Test Apps" expanded="True" />
+              <Node name="CreditCardValidator" expanded="True">
+                <Node name="Specflow" expanded="True">
+                  <Node name="IOS" expanded="True">
+                    <Node name="CreditCardValidationFeature" expanded="True">
+                      <Node name="CreditCardNumberTooLong" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CreditCardValidator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88B34E17-7D16-48A5-BAA6-2E11FD4C7459" />
+  <MultiItemStartupConfigurations />
+</Properties>

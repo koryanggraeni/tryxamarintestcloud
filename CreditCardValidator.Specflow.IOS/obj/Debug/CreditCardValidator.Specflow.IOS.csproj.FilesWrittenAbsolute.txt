@@ -1,0 +1,9 @@
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/bin/Debug/CreditCardValidator.Specflow.IOS.dll.config
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/bin/Debug/CreditCardValidator.Specflow.IOS.pdb
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/bin/Debug/CreditCardValidator.Specflow.IOS.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/obj/Debug/CreditCardValidator.Specflow.IOS.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/obj/Debug/CreditCardValidator.Specflow.IOS.pdb
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/bin/Debug/nunit.framework.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/bin/Debug/TechTalk.SpecFlow.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.Specflow.IOS/bin/Debug/Xamarin.UITest.dll

@@ -1,0 +1,16 @@
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/bin/iPhoneSimulator/Debug/CreditCardValidator.iOS.pdb
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/bin/iPhoneSimulator/Debug/CreditCardValidator.iOS.exe
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/CreditCardValidator.iOS.exe
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/CreditCardValidator.iOS.pdb
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/bin/iPhoneSimulator/Debug/CreditCardValidator.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/bin/iPhoneSimulator/Debug/CreditCardValidator.pdb
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/

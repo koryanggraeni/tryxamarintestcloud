@@ -1,0 +1,11 @@
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator.iOS/bin/iPhoneSimulator/Debug/CreditCardValidator.iOS.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/../../32bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator/bin/Debug/CreditCardValidator.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll

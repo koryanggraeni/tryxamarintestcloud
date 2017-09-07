@@ -1,0 +1,5 @@
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator/bin/Debug/CreditCardValidator.pdb
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator/bin/Debug/CreditCardValidator.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator/obj/Debug/CreditCardValidator.dll
+/Users/koryanggraeni/Documents/kory/project/CreditCardValidator.iOS/CreditCardValidator/obj/Debug/CreditCardValidator.pdb
